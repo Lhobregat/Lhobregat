@@ -1,8 +1,8 @@
 ### Olá! Me chamo Vinícius Lhobregat Santos 👋
 
-- 🔭 Atualmente apenas estudando FrontEnd e algumas linguagens BackEnd como Python/Java
+- 🔭 Atualmente estudando FrontEnd e algumas linguagens BackEnd como Python/Java
 
-- 🌱 Cursando Ciencia da Computação na UNIP (4º semestre) e realizando diversos cursos na Alura 
+- 🌱 Cursando Ciencia da Computação na UNIP (5º semestre) e realizando diversos cursos na Alura 
 
 - 📫 Contatos: 
       - Email: viniciuslhobregatsantos@gmail.com
