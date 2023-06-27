@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudando FrontEnd e algumas linguagens BackEnd como Python/Java
 
-- 🌱 Cursando Ciencia da Computação na UNIP (5º semestre) e realizando diversos cursos na Alura 
+- 🌱 Cursando Ciencia da Computação na Universidade Braz Cubas (4º semestre) e realizando diversos cursos na Alura 
 
 - 📫 Contatos: 
       - Email: viniciuslhobregatsantos@gmail.com
